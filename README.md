@@ -40,4 +40,4 @@ agriculture, rangeland, forest, water, barren land.
 - Trained on ~50 cm RGB imagery. It will not transfer directly to Sentinel-2.
 
 ## Run it
-Open `lulc_deepglobe.ipynb` in Colab with a T4 GPU. Model weights: [Drive link].
+Open `lulc_deepglobe.ipynb` in Colab with a T4 GPU. Model weights: [https://colab.research.google.com/drive/1_IiCxFRO7WgbLeOljGJfcti_oE0ajqqQ#scrollTo=X4SjDtK5_ttv].
